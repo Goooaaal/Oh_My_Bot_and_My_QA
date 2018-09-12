@@ -6,4 +6,4 @@
 Bot使用了Seq2Seq机制，输入输出句式不定长
 
 
-QA基于LSTM长短期记忆单元，使用RNN网络构建
+QA_for_LSTM基于LSTM长短期记忆单元，使用RNN网络构建
